@@ -11,6 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One of my main professional goals is to one day become the president of a corporation.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandesirijugalkishore)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandesirijugalkishore)](https://github.com/gandesirijugalkishore/github-readme-stats)
 
 
