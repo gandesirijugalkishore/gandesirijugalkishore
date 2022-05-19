@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Jugal Kishore Gandhesiri. 👋
 
-<!--
-**gandesirijugalkishore/gandesirijugalkishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Teaching Assistant for Elimentary Statistics.
 - 🌱 I’m currently learning Data Science and Data Processing.
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jgandhesiri@isalnder.tamucc.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One of my main professional goals is to one day become the president of a corporation.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandesirijugalkishore)](https://github.com/anuraghazra/github-readme-stats)
+
 
