@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as Teaching Assistant for Elimentary Statistics.
+- 🔭 I’m currently working as Teaching Assistant for Statistics and Calculus.
 - 🌱 I’m currently learning Data Science and Data Processing.
 - 👯 I’m looking to collaborate on any Real-time Data Sciece Projects.
 - 🤔 I’m looking for help with any Full time Oppurtunities in Data Roles
